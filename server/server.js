@@ -51,3 +51,7 @@ app.listen(5000, () => console.log('AI server started on http://localhost:5000')
 
 //for server cd server directory- npm run server
 //for client cd client directory-npm run dev
+
+//git init
+//git add .
+//git commit -m 'commit this'
